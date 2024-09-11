@@ -49,6 +49,9 @@ My dedication to continuous learning stems from a passion for innovation and a c
   <a href="https://www.youtube.com/edisonjsapps">
     <img src="https://img.shields.io/badge/youtube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
   </a>
+  <a href="https://ko-fi.com/J3J21369EO">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy me a coffee"/>
+</a>
 </div>
 
 ### ⚡ Fun fact
