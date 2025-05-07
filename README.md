@@ -28,14 +28,6 @@ My dedication to continuous learning stems from a passion for innovation and a c
 
 </p>
 
-### 🌱 I am studying to certify myself in
-
-<div display="flex">
-    <img src="https://img.shields.io/badge/mongodb-%23008000?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo DB"/>
-    <img src="https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-    <img src="https://img.shields.io/badge/Amazon AWS-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon AWS"/>
-    <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript"/>
-</div>
 
 ### 📫 How to reach me
 
