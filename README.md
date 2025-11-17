@@ -9,6 +9,7 @@ Welcome to my profile! I'm a software engineer with a focus on frontend developm
 <div display="flex">
   <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript"/>
   <img src="https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular" alt="Angular"/>
+    <img src="https://img.shields.io/badge/Vue-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Nestjs-%23EA2863?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest JS"/>
   <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
