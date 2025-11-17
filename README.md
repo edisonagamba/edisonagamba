@@ -35,9 +35,6 @@ My dedication to continuous learning stems from a passion for innovation and a c
   <a href="https://www.linkedin.com/in/edisonagamba/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/edisonjsapps/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
   <a href="https://www.youtube.com/edisonjsapps">
     <img src="https://img.shields.io/badge/youtube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
   </a>
